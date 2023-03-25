@@ -1,7 +1,7 @@
 # Maff-FudePolygon-PMTiles
 
 ## データについて
-- 農林水産省がオープンデータとして公開している、[筆ポリゴン（農地の区画情報）](https://www.maff.go.jp/j/tokei/porigon/)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
+- 農林水産省がオープンデータとして公開している、[筆ポリゴン（2022年度公開）](https://www.maff.go.jp/j/tokei/porigon/)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
 - [PMTiles](https://github.com/protomaps/PMTiles) 形式で配布
 - オープンソースソフトウェアで構築
 
@@ -23,7 +23,7 @@
 属性は全て外してあります。
 
 ### 筆界(fude_2022_01_47.pmtiles)
-筆ポリゴンそのものを可能な限り生かしたレイヤです。tippecanoeによるデータの間引きを行っていません。
+筆ポリゴンそのものを可能な限り生かしたデータです。tippecanoeによるデータの間引きを行っていません。
 
 #### ズームレベル範囲
 14-16
@@ -46,7 +46,3 @@
 - 地番
 - 精度区分 e.g. 乙一
 - 座標値種別 e.g 図上測量
-
-`筆ID`、`version`、`代表点緯度`、`代表点経度` を外す処理は、Tippecanoe のコマンドラインオプション `-x` により、　https://github.com/amx-project/a/blob/main/Rakefile で行っています。
-
-
