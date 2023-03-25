@@ -5,7 +5,7 @@
 - オープンソースソフトウェアで構築
 
 ## デモサイト
-- https://shi-works.github.io/MojMap-With-Maff/ (MojMap-With-Maff)
+- https://shi-works.github.io/Maff-FudePolygon-PMTiles/
 
 ## データ配布
 - `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47_centroid.pmtiles`(1.2GB)
