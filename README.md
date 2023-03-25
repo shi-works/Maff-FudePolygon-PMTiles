@@ -9,6 +9,16 @@
 - https://shi-works.github.io/MojMap-With-Maff/ (MojMap-With-Maff)
 
 ## データ配布
-- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47.pmtiles`
 - `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47_centroid.pmtiles`
+- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47.pmtiles`
+
+## ベクトルタイル設計情報
+### 重心(fude_2022_01_47_centroid.pmtiles)
+筆ポリゴンがある位置を小縮尺でも把握できるようにするための重心データです。
+
+#### ズームレベル範囲
+2-13
+
+#### 属性
+属性は全て外してあります。
 
