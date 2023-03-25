@@ -8,8 +8,8 @@
 - https://shi-works.github.io/MojMap-With-Maff/ (MojMap-With-Maff)
 
 ## データ配布
-- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47_centroid.pmtiles`(19.5GB)
-- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47.pmtiles`(1.2GB)
+- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47_centroid.pmtiles`(1.2GB)
+- `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47.pmtiles`(19.5GB)
 
 ## ベクトルタイル設計情報
 ### ■ 重心(fude_2022_01_47_centroid.pmtiles)
