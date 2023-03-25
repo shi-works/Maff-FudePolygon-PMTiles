@@ -2,7 +2,6 @@
 
 ## データについて
 - 農林水産省がオープンデータとして公開している、[筆ポリゴン（2022年度公開）](https://www.maff.go.jp/j/tokei/porigon/)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
-- [PMTiles](https://github.com/protomaps/PMTiles) 形式で配布
 - オープンソースソフトウェアで構築
 
 ## デモサイト
@@ -29,7 +28,7 @@
 7-14
 
 #### 属性
-筆ポリゴンの属性はそのまま生かしています。結果として、次の属性がついていると認識しています。
+筆ポリゴンの属性はそのまま生かしています（前前年筆ポリゴンID以外）。結果として、次の属性がついていると認識しています。
 
 - 属性項目名 名称
 - polygon_uuid 筆ポリゴンID
@@ -38,4 +37,6 @@
 - edit_year 調製年度
 - history 履歴
 - last_polygon_uuid 前年筆ポリゴンID
-- 
+- local_government_cd 地方公共団体コード
+- point_lng 重心点座標（経度）
+- point_lat 重心点座標（経度）
