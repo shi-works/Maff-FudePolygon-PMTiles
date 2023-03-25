@@ -13,7 +13,7 @@
 - `https://maff-fude-pmtiles.s3.ap-northeast-1.amazonaws.com/fude_2022_01_47.pmtiles`(1.2GB)
 
 ## ベクトルタイル設計情報
-### 重心(fude_2022_01_47_centroid.pmtiles)
+### ■ 重心(fude_2022_01_47_centroid.pmtiles)
 筆ポリゴンがある位置を小縮尺でも把握できるようにするための重心データです。tippecanoeによるデータの間引きを行っていません。
 
 #### ズームレベル範囲
@@ -22,7 +22,7 @@
 #### 属性
 属性は全て外してあります。
 
-### 筆界(fude_2022_01_47.pmtiles)
+### ■ 筆界(fude_2022_01_47.pmtiles)
 筆ポリゴンそのものを可能な限り生かしたデータです。tippecanoeによるデータの間引きを行っていません。
 
 #### ズームレベル範囲
