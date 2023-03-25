@@ -1,7 +1,7 @@
 # Maff-FudePolygon-PMTiles
 
 ## データについて
-- 農林水産省がオープンデータとして公開している、[筆ポリゴン（2022年度公開）](https://www.maff.go.jp/j/tokei/porigon/)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
+- 農水省がオープンデータとして公開している、[筆ポリゴン（2022年度公開）](https://www.maff.go.jp/j/tokei/porigon/)を[tippecanoe](https://github.com/felt/tippecanoe)で[PMTiles形式](https://github.com/protomaps/PMTiles)に変換したデータになります。
 - オープンソースソフトウェアで構築
 
 ## デモサイト
