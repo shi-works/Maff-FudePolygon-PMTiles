@@ -45,3 +45,7 @@
 - local_government_cd 地方公共団体コード
 - point_lng 重心点座標（経度）
 - point_lat 重心点座標（経度）
+
+## PMTiles Viewer
+- PMTilesはPMTiles Viewerで閲覧することができます。
+https://protomaps.github.io/PMTiles/
