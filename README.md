@@ -52,3 +52,5 @@
 
 ## ライセンス
 本データセットは[CC-BY-4.0](https://github.com/shi-works/Maff-FudePolygon-PMTiles/blob/main/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
+
+また、本データセットは農水省がオープンデータとして公開している、筆ポリゴン（2022年度公開）を加工して作成したものです。本データセットの使用・加工にあたっては、[筆ポリゴンの利用規約等](https://www.maff.go.jp/j/tokei/porigon/)を必ずご確認ください。
