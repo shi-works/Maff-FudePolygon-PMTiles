@@ -51,4 +51,4 @@
 - https://protomaps.github.io/PMTiles/
 
 ## ライセンス
-本データセットは、[CC-BY-4.0](https://github.com/shi-works/Maff-FudePolygon-PMTiles/blob/main/LICENSE)で提供されます。使用の際には、本レポジトリへのリンクを提示してください。
+本データセットは[CC-BY-4.0](https://github.com/shi-works/Maff-FudePolygon-PMTiles/blob/main/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
