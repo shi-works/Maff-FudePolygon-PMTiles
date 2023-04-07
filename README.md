@@ -10,8 +10,10 @@
 ![image](https://user-images.githubusercontent.com/71203808/227701862-d0b34585-7b7e-47b6-bbfc-422752494cd7.png)
 
 ## データ配布
+### PMTiles形式
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47_centroid.pmtiles`(1.2GB)
 - `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47.pmtiles`(19.5GB)
+### GeoParquet形式
 
 ## ベクトルタイル設計情報
 ### ■ 重心(fude_2022_01_47_centroid.pmtiles)
