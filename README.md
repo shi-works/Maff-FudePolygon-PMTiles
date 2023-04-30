@@ -7,7 +7,7 @@
 ## デモサイト
 - https://shi-works.github.io/Maff-FudePolygon-PMTiles/
 - サンプル画像
-![image](https://user-images.githubusercontent.com/71203808/227701862-d0b34585-7b7e-47b6-bbfc-422752494cd7.png)
+![image](https://user-images.githubusercontent.com/71203808/235332177-e6504759-9e86-4f61-af80-430b614a6868.png)
 
 ## データ配布
 ### PMTiles形式
