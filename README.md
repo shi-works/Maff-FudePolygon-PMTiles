@@ -11,11 +11,11 @@
 
 ## データ配布
 ### PMTiles形式
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47_centroid.pmtiles`(1.2GB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47.pmtiles`(19.5GB)
+- `https://xs489works.xsrv.jp/pmtiles-data/maff-fude/fude_2022_01_47_centroid.pmtiles`(1.2GB)
+- `https://xs489works.xsrv.jp/pmtiles-data/maff-fude/fude_2022_01_47.pmtiles`(19.5GB)
 ### GeoParquet形式
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47_centroid.parquet`(1.0GB)
-- `https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/maff-fude/fude_2022_01_47.parquet`(8.0GB)
+- `https://xs489works.xsrv.jp/pmtiles-data/maff-fude/fude_2022_01_47_centroid.parquet`(1.0GB)
+- `https://xs489works.xsrv.jp/pmtiles-data/maff-fude/fude_2022_01_47.parquet`(8.0GB)
 
 ## ベクトルタイル設計情報
 ### ■ 重心(fude_2022_01_47_centroid.pmtiles)
